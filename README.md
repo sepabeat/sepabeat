@@ -4,7 +4,7 @@
 **sepabeat/sepabeat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 Check my Artstation profile if you wish!
-[![Salvador Pérez Ávila's ArtStation Profile](https://cdnb.artstation.com/p/assets/images/images/024/675/951/large/salvador-perez-avila-salonacocina-4k-final.jpg?1583177823)](https://www.artstation.com/sepabeat)
+[![Salvador Pérez Ávila's ArtStation Profile](https://cdna.artstation.com/p/assets/images/images/062/720/060/large/salvador-perez-avila-sepabeatartstation.jpg?1683794398)](https://www.artstation.com/sepabeat)
 
 
 
