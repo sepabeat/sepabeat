@@ -22,8 +22,6 @@ Check my Artstation profile if you wish! <br>
 [![My Skills](https://skillicons.dev/icons?i=python,c,html,css)](https://skillicons.dev)
 
 
-> :desktop_computer:  Languages - C | html
-
 
 <br>
 <br>
