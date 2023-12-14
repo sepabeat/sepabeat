@@ -11,7 +11,6 @@ Check my Artstation profile if you wish! <br>
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="50" height="50" /> I’m interested in Unreal, Blender, Photoshop and Substance Painter.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Superhero%20Light%20Skin%20Tone.png" alt="Man Superhero Light Skin Tone" width="50" height="50" />  3D model and Graphic Designer Freelancer.
 <p align="left">
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clhix5w76003008mct7fgznr4/stats?cursusId=21&coalitionId=275" alt="salperez's 42 stats" /></a>
 </p>
 
 <br>
