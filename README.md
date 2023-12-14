@@ -2,7 +2,7 @@
 
 ### Hi there! I'm Salvador Pérez <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="35" height="35" />
 
-#### Currently studying in **<a href="https://www.42malaga.com/"> 42 Malaga</a>** to become a Software Developer <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Man Technologist Medium Skin Tone" width="50" height="50" />
+#### Currently studying in **<a href="https://www.ilerna.es/es/ciclo-grado-superior-desarrollo-aplicaciones-web-72"> Ilerna</a>** to become a Software Developer <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Man Technologist Medium Skin Tone" width="50" height="50" />
 <br>
  
 Check my Artstation profile if you wish! <br>
