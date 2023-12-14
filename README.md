@@ -18,7 +18,7 @@ Check my Artstation profile if you wish! <br>
 
 ## 💻 Skills I'm Currently Acquiring
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,html,css,mysql)](https://skillicons.dev)
 
 
 
@@ -27,7 +27,7 @@ Check my Artstation profile if you wish! <br>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Astronaut.png" alt="Astronaut" width="50" height="50" /> 💻 My Current Technical Skills
 
-[![My Skills](https://skillicons.dev/icons?i=blender,c,git,github,ps,unreal,ai,vscode,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=blender,c,git,github,ps,unreal,ai,vscode,cs,discord,linux)](https://skillicons.dev)
 
 > :desktop_computer:  Languages - C | Bash | C# | SQL
 
