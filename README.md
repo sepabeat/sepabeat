@@ -26,15 +26,15 @@ Check my Artstation profile if you wish! <br>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Astronaut.png" alt="Astronaut" width="50" height="50" /> 💻 My Current Technical Skills
 
-[![My Skills](https://skillicons.dev/icons?i=blender,c,git,github,ps,unreal,ai,vscode,cs,discord,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=blender,c,git,github,ps,unreal,ai,vscode,cs,discord,linux,js,html,php)](https://skillicons.dev)
 
-> :desktop_computer:  Languages - C | Bash | C# | SQL
+> :desktop_computer:  Languages - C | Bash | C# | SQL | PHP | JavaScript | Java
 
 > :hammer_and_wrench:  Tools -  Git | GitHub
 
 > :gear:  Engines -   Unreal Engine
 
-> :atom:  IDEs -  Visual Studio | Vim | Visual Studio Code
+> :atom:  IDEs -  Visual Studio | Vim | Visual Studio Code | Eclipse | NetBeans | IntelliJ
 
 > <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Paintbrush.png" alt="Paintbrush" width="25" height="25" />  Graphics Software -  Blender | Adobe Suite  | Substance Painter
 
