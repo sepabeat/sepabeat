@@ -1,4 +1,4 @@
-<p align="center"><img width="15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="Hi there!" /></p>
+<p align="center"><img width="45%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="Hi there!" /></p>
 
 ### Hi there! I'm Salvador Pérez <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand" width="35" height="35" />
 
